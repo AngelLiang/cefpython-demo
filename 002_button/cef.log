@@ -1,0 +1,190 @@
+[0810/191638.351:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/191638.356:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/191638.361:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/191638.518:INFO:cef_log.cpp(8)] [Browser process] CreateBrowserSync() called
+
+[0810/191638.533:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync()
+
+[0810/191639.267:INFO:cef_log.cpp(8)] [Browser process] GetPyBrowser(): create new PyBrowser, browserId=1
+
+[0810/191639.379:ERROR:browser_host_impl.cc(1666)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 
+[0810/191639.380:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync() succeeded
+
+[0810/191639.381:INFO:cef_log.cpp(8)] [Browser process] CefBrowser window handle = 1648506
+
+[0810/191639.382:INFO:cef_log.cpp(8)] [Browser process] MessageLoop()
+
+[0810/191648.805:INFO:cef_log.cpp(8)] [Browser process] LifespanHandler_OnBeforeClose
+
+[0810/191648.806:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191648.807:INFO:cef_log.cpp(8)] [Browser process] del g_pyBrowsers[1]
+
+[0810/191648.822:INFO:cef_log.cpp(8)] [Browser process] PyTaskRunnable: taskId=1, func=QuitMessageLoop
+
+[0810/191648.829:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191648.850:INFO:cef_log.cpp(8)] [Browser process] Shutdown()
+
+[0810/191649.069:INFO:cef_log.cpp(8)] [Browser process] CefShutdown()
+
+[0810/191655.590:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/191655.601:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/191655.602:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/191655.674:INFO:cef_log.cpp(8)] [Browser process] CreateBrowserSync() called
+
+[0810/191655.675:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync()
+
+[0810/191655.985:INFO:cef_log.cpp(8)] [Browser process] GetPyBrowser(): create new PyBrowser, browserId=1
+
+[0810/191656.092:ERROR:browser_host_impl.cc(1666)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 
+[0810/191656.116:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync() succeeded
+
+[0810/191656.117:INFO:cef_log.cpp(8)] [Browser process] CefBrowser window handle = 9635880
+
+[0810/191656.118:INFO:cef_log.cpp(8)] [Browser process] MessageLoop()
+
+[0810/191709.515:INFO:cef_log.cpp(8)] [Browser process] LifespanHandler_OnBeforeClose
+
+[0810/191709.516:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191709.516:INFO:cef_log.cpp(8)] [Browser process] del g_pyBrowsers[1]
+
+[0810/191709.526:INFO:cef_log.cpp(8)] [Browser process] PyTaskRunnable: taskId=1, func=QuitMessageLoop
+
+[0810/191709.527:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191709.539:INFO:cef_log.cpp(8)] [Browser process] Shutdown()
+
+[0810/191709.847:INFO:cef_log.cpp(8)] [Browser process] CefShutdown()
+
+[0810/191858.882:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/191858.884:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/191858.885:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/191859.048:INFO:cef_log.cpp(8)] [Browser process] CreateBrowserSync() called
+
+[0810/191859.051:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync()
+
+[0810/191859.502:INFO:cef_log.cpp(8)] [Browser process] GetPyBrowser(): create new PyBrowser, browserId=1
+
+[0810/191859.574:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=renderer --no-sandbox --service-pipe-token=4C0DE10DA81AA171FDEAE49F7366C8C9 --lang=en-US --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --disable-gpu-shader-disk-cache /prefetch:1
+
+[0810/191859.627:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/191859.629:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/191859.631:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/191859.635:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync() succeeded
+
+[0810/191859.636:INFO:cef_log.cpp(8)] [Browser process] CefBrowser window handle = 9447772
+
+[0810/191859.637:INFO:cef_log.cpp(8)] [Browser process] MessageLoop()
+
+[0810/191859.988:INFO:cefpython_app.cpp(270)] [Renderer process] OnContextCreated()
+
+[0810/191859.979:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): create new PyFrame, frameId=2
+
+[0810/191859.992:INFO:client_handler.cpp(40)] [Browser process] OnProcessMessageReceived(): OnContextCreated
+
+[0810/191859.993:INFO:cef_log.cpp(8)] [Browser process] V8ContextHandler_OnContextCreated()
+
+[0810/191908.715:INFO:cef_log.cpp(8)] [Browser process] LifespanHandler_OnBeforeClose
+
+[0810/191908.716:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191908.717:INFO:cef_log.cpp(8)] [Browser process] del g_pyFrames[1#2]
+
+[0810/191908.721:INFO:cef_log.cpp(8)] [Browser process] del g_pyBrowsers[1]
+
+[0810/191908.746:INFO:cef_log.cpp(8)] [Browser process] PyTaskRunnable: taskId=1, func=QuitMessageLoop
+
+[0810/191908.750:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/191908.756:INFO:cef_log.cpp(8)] [Browser process] Shutdown()
+
+[0810/191909.000:INFO:cef_log.cpp(8)] [Browser process] CefShutdown()
+
+[0810/191957.625:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/191957.635:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/191957.638:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/191957.756:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/192049.917:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/192049.919:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/192049.920:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/192050.025:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/192137.791:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/192137.859:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/192137.860:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/192137.956:INFO:cef_log.cpp(8)] [Browser process] CreateBrowserSync() called
+
+[0810/192137.957:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync()
+
+[0810/192138.300:INFO:cef_log.cpp(8)] [Browser process] GetPyBrowser(): create new PyBrowser, browserId=1
+
+[0810/192138.382:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=renderer --no-sandbox --service-pipe-token=0AE6C8953220E8150C84691867FD793D --lang=en-US --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --disable-gpu-shader-disk-cache /prefetch:1
+
+[0810/192138.419:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/192138.421:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/192138.422:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): underlying frame does not yet exist: browserId = 1, frameId = -4
+
+[0810/192138.429:INFO:cef_log.cpp(8)] [Browser process] CefBrowser::CreateBrowserSync() succeeded
+
+[0810/192138.431:INFO:cef_log.cpp(8)] [Browser process] CefBrowser window handle = 3615096
+
+[0810/192138.432:INFO:cef_log.cpp(8)] [Browser process] MessageLoop()
+
+[0810/192138.766:INFO:cefpython_app.cpp(270)] [Renderer process] OnContextCreated()
+
+[0810/192138.763:INFO:cef_log.cpp(8)] [Browser process] GetPyFrame(): create new PyFrame, frameId=2
+
+[0810/192138.769:INFO:client_handler.cpp(40)] [Browser process] OnProcessMessageReceived(): OnContextCreated
+
+[0810/192138.770:INFO:cef_log.cpp(8)] [Browser process] V8ContextHandler_OnContextCreated()
+
+[0810/192141.495:INFO:cef_log.cpp(8)] [Browser process] LifespanHandler_OnBeforeClose
+
+[0810/192141.497:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/192141.498:INFO:cef_log.cpp(8)] [Browser process] del g_pyFrames[1#2]
+
+[0810/192141.499:INFO:cef_log.cpp(8)] [Browser process] del g_pyBrowsers[1]
+
+[0810/192141.527:INFO:cef_log.cpp(8)] [Browser process] PyTaskRunnable: taskId=1, func=QuitMessageLoop
+
+[0810/192141.548:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+
+[0810/192141.567:INFO:cef_log.cpp(8)] [Browser process] Shutdown()
+
+[0810/192141.798:INFO:cef_log.cpp(8)] [Browser process] CefShutdown()
+
+[0810/192221.254:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache /prefetch:2
+
+[0810/192221.258:INFO:cef_log.cpp(8)] [Browser process] Switch already set, ignoring: disable-gpu-shader-disk-cache
+
+[0810/192221.259:INFO:cefpython_app.cpp(199)] [Browser process] OnBeforeChildProcessLaunch() command line: "F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\subprocess" --type=gpu-process --no-sandbox --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US --disable-gpu-shader-disk-cache --gpu-preferences=KAAAAAAAAACAA4CAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --locales-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3\locales" --log-file=cef.log --log-severity=info --product-version=SimpleApp/0.1 --resources-dir-path="F:\github\cefpython-demo\002_button\.venv\lib\site-packages\cefpython3" --lang=en-US /prefetch:2
+
+[0810/192221.373:INFO:cef_log.cpp(8)] [Browser process] QuitMessageLoop()
+

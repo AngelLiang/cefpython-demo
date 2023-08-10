@@ -1,0 +1,26 @@
+
+[2023-08-10 19:19:57] Traceback (most recent call last):
+  File ".\main.py", line 89, in <module>
+    app = SimpleApp()
+  File ".\main.py", line 64, in __init__
+    window_info.width = 800  # Set the width of the window
+AttributeError: 'cefpython_py36.WindowInfo' object has no attribute 'width'
+
+
+[2023-08-10 19:20:50] Traceback (most recent call last):
+  File ".\main.py", line 88, in <module>
+    app = SimpleApp()
+  File ".\main.py", line 64, in __init__
+    window_info.SetAsChild(None, [0, 0, 800, 600])
+  File "window_info.pyx", line 81, in cefpython_py36.WindowInfo.SetAsChild
+TypeError: an integer is required
+
+
+[2023-08-10 19:22:21] Traceback (most recent call last):
+  File ".\main.py", line 88, in <module>
+    app = SimpleApp()
+  File ".\main.py", line 64, in __init__
+    window_info.SetAsChild(self, [0, 0, 800, 600])
+  File "window_info.pyx", line 81, in cefpython_py36.WindowInfo.SetAsChild
+TypeError: an integer is required
+
