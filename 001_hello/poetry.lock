@@ -1,0 +1,23 @@
+[[package]]
+name = "cefpython3"
+version = "66.1"
+description = "GUI toolkit for embedding a Chromium widget in desktop applications"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.source]
+type = "legacy"
+url = "https://mirrors.aliyun.com/pypi/simple"
+reference = "aliyun"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.6"
+content-hash = "24313c3ed17bdd8b030c5c94db246c5e9490a3493b263480e808c466523bd222"
+
+[metadata.files]
+cefpython3 = [
+    {file = "cefpython3-66.1-py2.py3-none-win32.whl", hash = "sha256:3cf0dc13b4e9aa1c7f028e7f1bfe4e7fca6e677f18574f4ef9346f5d48853f51"},
+    {file = "cefpython3-66.1-py2.py3-none-win_amd64.whl", hash = "sha256:afe1bcde78cbd3790370f4a51cbca37de8bff761de0452f8b8a3b22971bed82a"},
+]
